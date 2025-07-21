@@ -1,6 +1,6 @@
 import React from "react";
 import heroImg from "../assets/hero.jpg";
-import HeroSectionForm from "./heroSectionForm";
+import HeroSectionForm from "./HeroSectionForm";
 import { useNavigate } from "react-router-dom";
 function HeroSection() {
   const navigate = useNavigate();
